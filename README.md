@@ -1,6 +1,6 @@
 # オブザーバビリティ成熟度モデル
 
-![License](https://img.shields.io/github/license/dmm-com/observability-maturity-model)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 DMM.comで策定・運用されている、組織のオブザーバビリティ能力を6つの評価軸で測定し、段階的な改善を支援するための成熟度モデルです。
 
