@@ -30,6 +30,10 @@ PDFの元データです。自社向けにカスタマイズする際にご利�
 - **[成熟度モデル (CSV)](csv/observability-maturity-model.csv)**
 - **[改善アクションプラン (CSV)](csv/improvement-action-plan.csv)**
 
+## 🤝 カスタマイズ・コントリビューション
+
+自社向けにCSVをカスタマイズする際の編集手順や注意点は、[コントリビューションガイド（CONTRIBUTING.md）](CONTRIBUTING.md)を参照してください。
+
 ## 📄 ライセンス
 
 このプロジェクトは[Creative Commons Attribution 4.0 International License](LICENSE)の下でライセンスされています。
