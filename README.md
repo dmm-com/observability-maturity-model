@@ -33,7 +33,7 @@ PDFの元データです。自社向けにカスタマイズする際にご利�
 
 ## 🏷️ バージョン
 
-基準の変更に伴い、評価に用いた版を特定できるよう、Gitタグでバージョンを管理しています。最新版は[Releases](https://github.com/dmm-com/observability-maturity-model/releases)、各版の変更点は[CHANGELOG.md](CHANGELOG.md)を参照してください。評価結果には、使用したバージョン（例：`v1.5.0`）をあわせて記録することをおすすめします。
+基準の変更に伴い、評価に用いた版を特定できるよう、Gitタグでバージョンを管理しています。最新版は[Releases](https://github.com/dmm-com/observability-maturity-model/releases)、各版の変更点は[CHANGELOG.md](CHANGELOG.md)を参照してください。評価結果には、使用したバージョン（例：`v1.3.0`）をあわせて記録することをおすすめします。
 
 ## 🤝 カスタマイズ・コントリビューション
 
