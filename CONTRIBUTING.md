@@ -45,7 +45,7 @@ PDFはCSVから生成される閲覧用の成果物で、CSVが唯一の正と�
 
 ### バージョンの対象
 
-バージョンを上げる対象は、評価基準や改善アクションの内容を変える変更（`csv/`、`pdf/`、およびそれらを説明するREADME.mdの記述）です。コントリビューションガイドやCHANGELOG.mdの整備、`.gitignore`などのリポジトリ運用のみの変更は、バージョンを上げず、CHANGELOG.mdにも記載しません。対象の変更を含むPRではCHANGELOG.mdを更新し、GitHub Releasesのリリースノートは、CHANGELOG.mdの該当バージョンと同じ内容にします。
+バージョンを上げる対象は、`csv/`、`pdf/`、およびモデルを説明するREADME.mdの記述の変更です（誤字脱字や表記ゆれの修正も含みます）。コントリビューションガイドやCHANGELOG.mdの整備、`.gitignore`などのリポジトリ運用のみの変更は、バージョンを上げず、CHANGELOG.mdにも記載しません。対象の変更を含むPRではCHANGELOG.mdを更新し、GitHub Releasesのリリースノートは、CHANGELOG.mdの該当バージョンと同じ内容にします。
 
 ### バージョンの付与ルール
 
