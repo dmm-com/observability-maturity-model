@@ -1,6 +1,7 @@
 # オブザーバビリティ成熟度モデル
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Release](https://img.shields.io/github/v/release/dmm-com/observability-maturity-model)](https://github.com/dmm-com/observability-maturity-model/releases)
 
 DMM.comで策定・運用されている、組織のオブザーバビリティ能力を6つの評価軸で測定し、段階的な改善を支援するための成熟度モデルです。
 
@@ -29,6 +30,10 @@ PDFの元データです。自社向けにカスタマイズする際にご利�
 
 - **[成熟度モデル (CSV)](csv/observability-maturity-model.csv)**
 - **[改善アクションプラン (CSV)](csv/improvement-action-plan.csv)**
+
+## 🏷️ バージョン
+
+基準の変更に伴い、評価に用いた版を特定できるよう、Gitタグでバージョンを管理しています。最新版は[Releases](https://github.com/dmm-com/observability-maturity-model/releases)、各版の変更点は[CHANGELOG.md](CHANGELOG.md)を参照してください。評価結果には、使用したバージョン（例：`v1.3.0`）をあわせて記録することをおすすめします。
 
 ## 🤝 カスタマイズ・コントリビューション
 
